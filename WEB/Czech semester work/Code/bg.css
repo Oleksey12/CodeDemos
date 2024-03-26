@@ -1,0 +1,43 @@
+.YouTube-bg {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom, rgb(243, 82, 82) 1%, rgba(255, 255, 255, 0));
+  }
+
+  .Twitch-bg {
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(to bottom, rgb(121, 88, 182) 1%, rgba(255, 255, 255, 0));
+  }
+
+  .YouTube-card {
+    border-style: solid;
+    border-color: rgb(243, 82, 82);
+    border-width: 2px;
+  }
+
+  .Twitch-card {
+    border-style: solid;
+    border-color: rgb(121, 88, 182);
+    border-width: 2px;
+  }
+
+
+  .YouTube-color {
+    background-color: rgb(255, 197, 197);
+  }
+
+
+  .Twitch-color {
+    background-color: rgb(216, 205, 238);
+  }
+
+
+  
+  .YouTube-navbar {
+    background-color: rgb(255, 104, 104);
+  }
+
+  .Twitch-navbar {
+    background-color: rgb(167, 139, 228);
+  }

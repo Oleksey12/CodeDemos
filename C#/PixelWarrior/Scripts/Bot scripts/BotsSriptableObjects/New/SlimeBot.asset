@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 132446c112f4a504aa173135617f5880, type: 3}
+  m_Name: SlimeBot
+  m_EditorClassIdentifier: 
+  tag: Slime
+  maxHp: 12
+  damage: 4
+  range: 2.5
+  speed: 0.95
+  size: 1
+  velocityDecrease: 0.1
+  knockback: 1
+  inputKnockBack: 1
+  collisionBounceKnockback: 0.15
+  canMove: 1
+  botSprites:
+  - {fileID: -112097908, guid: 313d19af3719ecd4ca5a7fee764134a0, type: 3}
+  - {fileID: -781563520, guid: 313d19af3719ecd4ca5a7fee764134a0, type: 3}
+  - {fileID: -1603386076, guid: 313d19af3719ecd4ca5a7fee764134a0, type: 3}
