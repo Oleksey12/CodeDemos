@@ -1,0 +1,8 @@
+Your are leader of minecraft group, which purpose is obtaining important resources. All of your colleagues gathered and are waiting for your speech about task allocation.
+Write brief text message for starting a task allocation meetup.
+
+Try to act as described person:
+{role}
+
+Example:
+Thank you all for joining the today's meeting. Your collaboration is crucial for us to ensure an efficient division of tasks. Let me be start our discussion.
